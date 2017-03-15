@@ -1,0 +1,16 @@
+body, h1, h2, h3, h4, h5, h6, p {
+	color: white;
+}
+
+
+body{
+	background: url("../images/Mortal Kombat Dragon Logo Background.gif");
+	background-repeat: no-repeat;
+	background-size: 65%;
+	background-color: black;
+	background-position: center; 
+}
+
+.mainDivs{
+	height: 450px;
+}
